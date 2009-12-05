@@ -24,7 +24,7 @@
 	return self;
 }
 
-- (id)initWithRepository:(NSString *)path
+- (id)initWithRepositoryPath:(NSString *)path
 {
 	repositoryPath = path;
 	return self;
