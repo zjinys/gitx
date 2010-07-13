@@ -158,7 +158,10 @@
 {
 	[contentController refresh:self];
 }
-
+- (IBAction) showTodo:(id)sender
+{
+	//[contentController refresh:self];
+}
 - (void) updateStatus
 {
 	NSString *status = contentController.status;

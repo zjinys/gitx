@@ -47,4 +47,5 @@
 - (IBAction) openInTerminal:(id)sender;
 - (IBAction) cloneTo:(id)sender;
 - (IBAction) refresh:(id)sender;
+- (IBAction) showTodo:(id)sender;
 @end
